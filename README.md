@@ -1,6 +1,6 @@
-# Robust dual-tone multi-frequency tone detection using k-nearest neighbour classifier for a noisy environment
+# Machine learning based KNN classifier: towards robust, efficient DTMF tone detection for a Noisy environment
 
-Link to publication - https://doi.org/10.1108/ACI-10-2020-0105
+Link to publication - https://doi.org/10.1007/s11042-021-11194-3
 
 **NOTE:**
 
